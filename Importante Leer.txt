@@ -1,0 +1,12 @@
+Pasos para construir la aplicación
+1-Colocar todos los archivos necesarios (html,java script, css,etc) dentro de la carpeta www
+2-Comprimir con extensión zip (Solo esa extensión) las carpetas existentes.
+3-Subir el archivo comprimido a https://build.phonegap.com
+4-Bajar el apk e instalar
+
+
+Notas: 
+-Siempre tiene que existir una página index.html
+-El archivo config.xml es de extrema importancia, ya que de ahí se asignan todas las configuraciones de la app
+tales como permisos de accesos a dominios externos, iconos, nombre de la app, listas blancas, entre otros.
+-Se recomienda no mover a otro sitio el config.xml
